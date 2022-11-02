@@ -12,5 +12,19 @@ public class EvenAndOddSubtraction_05 {
                         .nextLine().split(" "))
                         .mapToInt(e -> Integer.parseInt(e))
                         .toArray();
+
+        int evenSum = 0;
+        int oddSum = 0;
+
+        for (int number:numbers) {
+
+            if (number % 2 == 0){
+                evenSum += number;
+            }else {
+                oddSum += number;
+            }
+        }
+        int diff = evenSum - oddSum;
+        System.out.println(diff);
     }
 }
