@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountCharsInAString_01">
+  <component name="RunManager" selected="Application.StudentAcademy_06">
     <configuration name="CountCharsInAString_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.CountCharsInAString_01" />
       <module name="JavaCourse2022" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumEvenNumbers_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayLab.SumEvenNumbers_03" />
+    <configuration name="StudentAcademy_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.StudentAcademy_06" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayLab.*" />
+          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentAcademy_06" />
         <item itemvalue="Application.CountCharsInAString_01" />
         <item itemvalue="Application.EqualArrays_06" />
         <item itemvalue="Application.EvenAndOddSubtraction_05" />
         <item itemvalue="Application.ReversArrayOfString_04" />
-        <item itemvalue="Application.SumEvenNumbers_03" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +134,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExerciseAssociativeArrays/StudentAcademy_06.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
