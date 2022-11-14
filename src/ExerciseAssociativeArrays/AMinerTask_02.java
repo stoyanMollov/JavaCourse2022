@@ -8,26 +8,26 @@ public class AMinerTask_02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        LinkedHashMap<String, Integer> resourcesMap = new LinkedHashMap<>();
-        String resources = " ";
-        while (!resources.equals("stop")){
-            resources = scanner.nextLine();
+        String resource = scanner.nextLine();
+        Map<String, Integer> resourcesQuantity = new LinkedHashMap<>();
 
-            if (!resources.equals("stop")){
-                int quantity = Integer.parseInt(scanner.nextLine());
+        while(!resource.equals("stop")){
+            int quantity = Integer.parseInt(scanner.nextLine());
 
-                if (!resourcesMap.containsKey(resources)){
-                    resourcesMap.put(resources,quantity);
-                }else {
-                    int value = resourcesMap.get(resources);
-                    resourcesMap.put(resources, value += quantity);
-                }
+            if (!resourcesQuantity.containsKey(resource)){
+                resourcesQuantity.put(resource,quantity);
+            }else {
+                resourcesQuantity.put(resource, resourcesQuantity.get(resource) + quantity);
             }
+
+            resource = scanner.nextLine();
         }
-        for (Map.Entry<String, Integer> entry : resourcesMap.entrySet()) {
+        for (Map.Entry<String, Integer> entry : resourcesQuantity.entrySet()) {
             String key = entry.getKey();
             int value = entry.getValue();
-            System.out.println(key +" " + "->" + " " + value);
+
+            resourcesQuantity.forEach((k,v) ->System.out.println(k + " -> " + v));
         }
+
     }
 }
