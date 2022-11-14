@@ -33,7 +33,7 @@ public class Orders_03 {
         for (Map.Entry<String, Double> entry : productsPrice.entrySet()) {
             String productName = entry.getKey();
             double finalPrice = entry.getValue() * productQuantity.get(entry.getKey());
-            System.out.printf("%S -> %.2f%n", productName, finalPrice);
+            System.out.printf("%s -> %.2f%n", productName, finalPrice);
         }
 
         //productsPrice.forEach((k,v) -> System.out.printf("%s -> %.2f%n",k,v));
