@@ -25,9 +25,8 @@ public class AMinerTask_02 {
         for (Map.Entry<String, Integer> entry : resourcesQuantity.entrySet()) {
             String key = entry.getKey();
             int value = entry.getValue();
-
-            resourcesQuantity.forEach((k,v) ->System.out.println(k + " -> " + v));
         }
+        resourcesQuantity.forEach((k,v) ->System.out.println(k + " -> " + v));
 
     }
 }
