@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseAssociativeArrays/SoftUniParking_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/DigitsLettersAndOther_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/RepeatStrings_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/ReverceString_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/Substring_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/textProcessing/TextFilter_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SoftUniParking_04">
-    <configuration name="AMinerTask_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.AMinerTask_02" />
+  <component name="RunManager" selected="Application.DigitsLettersAndOther_05">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textProcessing.Demo" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
+          <option name="PATTERN" value="textProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompanyUser_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.CompanyUser_08" />
+    <configuration name="DigitsLettersAndOther_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textProcessing.DigitsLettersAndOther_05" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
+          <option name="PATTERN" value="textProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Courses_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.Courses_05" />
+    <configuration name="RepeatStrings_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textProcessing.RepeatStrings_02" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
+          <option name="PATTERN" value="textProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Orders_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.Orders_03" />
+    <configuration name="Substring_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textProcessing.Substring_03" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
+          <option name="PATTERN" value="textProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftUniParking_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseAssociativeArrays.SoftUniParking_04" />
+    <configuration name="TextFilter_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textProcessing.TextFilter_04" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciseAssociativeArrays.*" />
+          <option name="PATTERN" value="textProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SoftUniParking_04" />
-        <item itemvalue="Application.CompanyUser_08" />
-        <item itemvalue="Application.Courses_05" />
-        <item itemvalue="Application.AMinerTask_02" />
-        <item itemvalue="Application.Orders_03" />
+        <item itemvalue="Application.DigitsLettersAndOther_05" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.TextFilter_04" />
+        <item itemvalue="Application.Substring_03" />
+        <item itemvalue="Application.RepeatStrings_02" />
       </list>
     </recent_temporary>
   </component>
