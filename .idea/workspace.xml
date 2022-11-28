@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/DigitsLettersAndOther_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/RepeatStrings_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/ReverceString_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/Substring_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/textProcessing/TextFilter_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/CharMultiplay_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/ExtractFile_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/LettersChangeNumbers_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/MultiplyBigNumbers_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/StringExplosion_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciseTextProcessing/ValidUsernames_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +44,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DigitsLettersAndOther_05">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textProcessing.Demo" />
+  <component name="RunManager" selected="Application.ReplaceRepeatingChars_06">
+    <configuration name="CharMultiplay_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseTextProcessing.CharMultiplay_02" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textProcessing.*" />
+          <option name="PATTERN" value="exerciseTextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitsLettersAndOther_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textProcessing.DigitsLettersAndOther_05" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseTextProcessing.Demo2" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textProcessing.*" />
+          <option name="PATTERN" value="exerciseTextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatStrings_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textProcessing.RepeatStrings_02" />
+    <configuration name="LettersChangeNumbers_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseTextProcessing.LettersChangeNumbers_08" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textProcessing.*" />
+          <option name="PATTERN" value="exerciseTextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textProcessing.Substring_03" />
+    <configuration name="MultiplyBigNumbers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseTextProcessing.MultiplyBigNumbers_05" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textProcessing.*" />
+          <option name="PATTERN" value="exerciseTextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextFilter_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textProcessing.TextFilter_04" />
+    <configuration name="ReplaceRepeatingChars_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerciseTextProcessing.ReplaceRepeatingChars_06" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textProcessing.*" />
+          <option name="PATTERN" value="exerciseTextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigitsLettersAndOther_05" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.TextFilter_04" />
-        <item itemvalue="Application.Substring_03" />
-        <item itemvalue="Application.RepeatStrings_02" />
+        <item itemvalue="Application.ReplaceRepeatingChars_06" />
+        <item itemvalue="Application.MultiplyBigNumbers_05" />
+        <item itemvalue="Application.CharMultiplay_02" />
+        <item itemvalue="Application.LettersChangeNumbers_08" />
+        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,8 +155,18 @@
           <line>16</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exerciseTextProcessing/LettersChangeNumbers_08.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="first" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaCourse2022$SoftUniParking_04.ic" NAME="SoftUniParking_04 Coverage Results" MODIFIED="1668764580040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
