@@ -1,0 +1,11 @@
+package examPreparation;
+
+import java.util.Scanner;
+
+public class ActivatinonKey_01 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+
+    }
+}
