@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/AnonimusTread_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/AppendArrays_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/BombNumber_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/CardGame_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/HouseParty_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/PockemonDontGo_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseLists/SoftUniPlanning_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseLists/Train_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseLists/Train_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examPreparation/ActivatinonKey_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examPreparation/ActivatinonKey_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,20 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Train_01">
+  <component name="RunManager" selected="Application.ActivatinonKey_01">
+    <configuration name="ActivatinonKey_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examPreparation.ActivatinonKey_01" />
+      <module name="JavaCourse2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Furniture_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regularExpressionMoreExcersize.Furniture_01" />
       <module name="JavaCourse2022" />
@@ -67,19 +73,6 @@
     </configuration>
     <configuration name="MatchDates_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regularExpressions.MatchDates_03" />
-      <module name="JavaCourse2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="regularExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatchPhoneNumber_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regularExpressions.MatchPhoneNumber_02" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActivatinonKey_01" />
         <item itemvalue="Application.Train_01" />
         <item itemvalue="Application.SoftUniBarIncome_03" />
         <item itemvalue="Application.Furniture_01" />
         <item itemvalue="Application.MatchDates_03" />
-        <item itemvalue="Application.MatchPhoneNumber_02" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +179,11 @@
           <url>file://$PROJECT_DIR$/src/regularExpressionMoreExcersize/SoftUniBarIncome_03.java</url>
           <line>20</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examPreparation/ActivatinonKey_01.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
