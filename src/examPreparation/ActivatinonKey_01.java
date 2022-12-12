@@ -55,6 +55,5 @@ public class ActivatinonKey_01 {
             inputLine = scanner.nextLine();
         }
         System.out.printf("Your activation key is: %s%n",activationKey);
-
     }
 }
