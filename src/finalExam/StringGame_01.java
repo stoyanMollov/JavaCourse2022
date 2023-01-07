@@ -46,8 +46,8 @@ public class StringGame_01 {
                 case "FindIndex":
                         String toFindTheChar = arrayCommands[1];
                         int resultIndex = newStringSB.indexOf(toFindTheChar);
-                        char resultChar = newStringSB.charAt();
-                        System.out.println(resultChar);
+                        //char resultChar = newStringSB.charAt();
+                      //  System.out.println(resultChar);
                     break;
                 case "Cut":
                         int startIndex = Integer.parseInt(arrayCommands[1]);
