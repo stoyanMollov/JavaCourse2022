@@ -9,10 +9,11 @@ public class TriangleNumber_08 {
 
         int number = scanner.nextInt();
 
-        for (int row = 0; row <= number; row++) {
+        for (int row = 1; row <= number; row++) {
             for (int col = 1; col <= row ; col++) {
-                System.out.println(col);
+                System.out.print(row + " ");
             }
+            System.out.println();
         }
     }
 }

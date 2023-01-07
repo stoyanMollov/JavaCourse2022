@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExerciseBasicSyntaxConditionalStatementsAndLoops/TriangleNumber_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciseBasicSyntaxConditionalStatementsAndLoops/Vacation_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExerciseBasicSyntaxConditionalStatementsAndLoops/Orders_09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/finalExam/StringGame_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/finalExam/StringGame_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseBasicSyntaxConditionalStatementsAndLoops/TriangleNumber_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseBasicSyntaxConditionalStatementsAndLoops/TriangleNumber_08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleNumber_08">
+  <component name="RunManager" selected="Application.Orders_09">
     <configuration name="ActivatinonKey_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examPreparation.ActivatinonKey_01" />
       <module name="JavaCourse2022" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGame_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="finalExam.StringGame_01" />
+    <configuration name="Orders_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseBasicSyntaxConditionalStatementsAndLoops.Orders_09" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="finalExam.*" />
+          <option name="PATTERN" value="ExerciseBasicSyntaxConditionalStatementsAndLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Train_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExersize.Train_01" />
+    <configuration name="StringGame_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalExam.StringGame_01" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayExersize.*" />
+          <option name="PATTERN" value="finalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Orders_09" />
         <item itemvalue="Application.TriangleNumber_08" />
         <item itemvalue="Application.Vacation_03" />
         <item itemvalue="Application.StringGame_01" />
         <item itemvalue="Application.ActivatinonKey_01" />
-        <item itemvalue="Application.Train_01" />
       </list>
     </recent_temporary>
   </component>
