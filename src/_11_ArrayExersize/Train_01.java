@@ -6,10 +6,10 @@ public class Train_01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        String n = scan.nextLine();
-        int[] wagons = new int[n.length()];
+        int n = Integer.parseInt(scan.nextLine());
+        int[] wagons = new int[n];
 
-        for (int wagon = 0; wagon < wagons.length; wagon++) {
+        for (int wagon = 0; wagon < n; wagon++) {
             int countPeople = Integer.parseInt(scan.nextLine());
             wagons[wagon] = countPeople;
         }

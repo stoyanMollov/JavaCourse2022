@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="" />
+    <list default="true" id="526eda05-ea49-4dfe-a9ea-2071ffac779d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_11_ArrayExersize/Train_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_ArrayExersize/Train_01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application._10_PadawanEquipment">
+}</component>
+  <component name="RunManager" selected="Application.Train_01">
+    <configuration name="Elevator_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_DatTypesAndVariablesExercise.Elevator_03" />
+      <module name="JavaCourse2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_09_DatTypesAndVariablesExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Orders_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_06_ExerciseBasicSyntaxConditionalStatementsAndLoops.Orders_09" />
       <module name="JavaCourse2022" />
@@ -56,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGame_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_33_finalExam.StringGame_01" />
+    <configuration name="SumOfChars_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_DatTypesAndVariablesExercise.SumOfChars_04" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_33_finalExam.*" />
+          <option name="PATTERN" value="_09_DatTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleNumber_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_ExerciseBasicSyntaxConditionalStatementsAndLoops.TriangleNumber_08" />
+    <configuration name="Train_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_ArrayExersize.Train_01" />
       <module name="JavaCourse2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_ExerciseBasicSyntaxConditionalStatementsAndLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vacation_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_ExerciseBasicSyntaxConditionalStatementsAndLoops.Vacation_03" />
-      <module name="JavaCourse2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_06_ExerciseBasicSyntaxConditionalStatementsAndLoops.*" />
+          <option name="PATTERN" value="_11_ArrayExersize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Train_01" />
+        <item itemvalue="Application.SumOfChars_04" />
+        <item itemvalue="Application.Elevator_03" />
         <item itemvalue="Application._10_PadawanEquipment" />
         <item itemvalue="Application.Orders_09" />
-        <item itemvalue="Application.TriangleNumber_08" />
-        <item itemvalue="Application.Vacation_03" />
-        <item itemvalue="Application.StringGame_01" />
       </list>
     </recent_temporary>
   </component>
